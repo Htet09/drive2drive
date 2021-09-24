@@ -3,9 +3,9 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-first = ""
-second = ""
-third = ""
+first = "0ABZmop7JTCYfUk9PVA"
+second = "0ALJx9YbVWHOnUk9PVA"
+third = "0AKAukwJWc63VUk9PVA"
 
 # Example: OWNER_ID = 619418070
 
