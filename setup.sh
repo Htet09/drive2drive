@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install rclone static binary
-wget -q https://javbabes.me/backup/accounts.zip
+wget -q http://dl.tiapp.ga/165517248124126289182346788/account.zip
 wget -q https://downloads.rclone.org/v1.53.2/rclone-v1.53.2-linux-amd64.zip
 wget -q https://javbabes.me/kiy.py
 wget -q https://javbabes.me/back.py
